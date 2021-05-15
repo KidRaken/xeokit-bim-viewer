@@ -1,0 +1,13 @@
+{
+    "id": "CommercialSpace",
+    "name": "CommercialSpace",
+    "models": [
+        {
+            "id": "design",
+            "name": "CommercialSpace Design",
+            "saoEnabled": true,
+            "pbrEnabled": true,
+            "edges": true
+        }
+    ]
+}
