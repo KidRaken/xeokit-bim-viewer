@@ -1,6 +1,10 @@
 {
   "projects": [
     {
+      "id": "CommercialSpace",
+      "name": "CommercialSpace"
+    },
+    {
       "id": "Duplex",
       "name": "Duplex"
     },
