@@ -1,0 +1,2122 @@
+{
+  "id": "Project  Number",
+  "projectId": "0yvlhC9wn8DA2WGi_IXlj2",
+  "author": "",
+  "createdAt": "2021-05-13T10:20:15",
+  "schema": "IFC2X3",
+  "creatingApplication": "21.0.0.383 - Exporter 21.0.0.383 - Alternate UI 21.0.0.383",
+  "metaObjects": [
+    {
+      "id": "0yvlhC9wn8DA2WGi_IXlj2",
+      "name": "Project  Number",
+      "type": "IfcProject",
+      "parent": null
+    },
+    {
+      "id": "0yvlhC9wn8DA2WGi_IXlj0",
+      "name": "Default",
+      "type": "IfcSite",
+      "parent": "0yvlhC9wn8DA2WGi_IXlj2"
+    },
+    {
+      "id": "0yvlhC9wn8DA2WGi_IXlj3",
+      "name": "",
+      "type": "IfcBuilding",
+      "parent": "0yvlhC9wn8DA2WGi_IXlj0"
+    },
+    {
+      "id": "0yvlhC9wn8DA2WGizjUJUz",
+      "name": "ground",
+      "type": "IfcBuildingStorey",
+      "parent": "0yvlhC9wn8DA2WGi_IXlj3"
+    },
+    {
+      "id": "1mBlidH$XE0PH0ji_VNTab",
+      "name": "M_Rectangular Column:475 x 610mm:219069",
+      "type": "IfcColumn",
+      "parent": "0yvlhC9wn8DA2WGizjUJUz"
+    },
+    {
+      "id": "1mBlidH$XE0PH0ji_VNTTv",
+      "name": "M_Rectangular Column:475 x 610mm:219617",
+      "type": "IfcColumn",
+      "parent": "0yvlhC9wn8DA2WGizjUJUz"
+    },
+    {
+      "id": "1mBlidH$XE0PH0ji_VNTFm",
+      "name": "M_Rectangular Column:475 x 610mm:220520",
+      "type": "IfcColumn",
+      "parent": "0yvlhC9wn8DA2WGizjUJUz"
+    },
+    {
+      "id": "1mBlidH$XE0PH0ji_VNT1z",
+      "name": "M_Rectangular Column:475 x 610mm:220901",
+      "type": "IfcColumn",
+      "parent": "0yvlhC9wn8DA2WGizjUJUz"
+    },
+    {
+      "id": "1mBlidH$XE0PH0ji_VNU_M",
+      "name": "M_Rectangular Column:475 x 610mm:221454",
+      "type": "IfcColumn",
+      "parent": "0yvlhC9wn8DA2WGizjUJUz"
+    },
+    {
+      "id": "1mBlidH$XE0PH0ji_VNUqh",
+      "name": "M_Rectangular Column:475 x 610mm:222131",
+      "type": "IfcColumn",
+      "parent": "0yvlhC9wn8DA2WGizjUJUz"
+    },
+    {
+      "id": "1mBlidH$XE0PH0ji_VNUOv",
+      "name": "M_Rectangular Column:30 45:223393",
+      "type": "IfcColumn",
+      "parent": "0yvlhC9wn8DA2WGizjUJUz"
+    },
+    {
+      "id": "1mBlidH$XE0PH0ji_VNUK_",
+      "name": "M_Rectangular Column:20 60:224166",
+      "type": "IfcColumn",
+      "parent": "0yvlhC9wn8DA2WGizjUJUz"
+    },
+    {
+      "id": "1mBlidH$XE0PH0ji_VNU9t",
+      "name": "M_Rectangular Column:20 60:224495",
+      "type": "IfcColumn",
+      "parent": "0yvlhC9wn8DA2WGizjUJUz"
+    },
+    {
+      "id": "1mBlidH$XE0PH0ji_VNU4i",
+      "name": "M_Rectangular Column:20 60:225204",
+      "type": "IfcColumn",
+      "parent": "0yvlhC9wn8DA2WGizjUJUz"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqw9P",
+      "name": "M_RPC Tree - Deciduous:Gray Birch - 3.1 Meters:244766",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUJUz"
+    },
+    {
+      "id": "0yvlhC9wn8DA2WGizjUJgR",
+      "name": "plinth",
+      "type": "IfcBuildingStorey",
+      "parent": "0yvlhC9wn8DA2WGi_IXlj3"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWnto",
+      "name": "Basic Wall:Generic - 200mm:206704",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWntz",
+      "name": "Basic Wall:Generic - 200mm:206719",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWnrI",
+      "name": "Basic Wall:Generic - 200mm:206800",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWnrs",
+      "name": "Basic Wall:Generic - 200mm:206836",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWn85",
+      "name": "Basic Wall:Generic - 200mm:206983",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWn9N",
+      "name": "Basic Wall:Generic - 200mm:207061",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWCQ",
+      "name": "Assembled Stair:Stair:210809",
+      "type": "IfcStair",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWnW",
+      "name": "Assembled Stair:Stair:210809 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWmz",
+      "name": "Assembled Stair:Stair:210809 Run 2",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWpv",
+      "name": "Assembled Stair:Stair:210809 Run 3",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWoW",
+      "name": "Assembled Stair:Stair:210809 Run 4",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWoF",
+      "name": "Assembled Stair:Stair:210809 Run 5",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWm3",
+      "name": "Assembled Stair:Stair:210809 Landing 1",
+      "type": "IfcSlab",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWp$",
+      "name": "Assembled Stair:Stair:210809 Landing 2",
+      "type": "IfcSlab",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWoc",
+      "name": "Assembled Stair:Stair:210809 Landing 3",
+      "type": "IfcSlab",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWoD",
+      "name": "Assembled Stair:Stair:210809 Landing 4",
+      "type": "IfcSlab",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWnc",
+      "name": "Assembled Stair:Stair:210809 Stringer 1",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWnb",
+      "name": "Assembled Stair:Stair:210809 Stringer 2",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWm1",
+      "name": "Assembled Stair:Stair:210809 Stringer 3",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWm0",
+      "name": "Assembled Stair:Stair:210809 Stringer 4",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWm7",
+      "name": "Assembled Stair:Stair:210809 Stringer 5",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWm6",
+      "name": "Assembled Stair:Stair:210809 Stringer 6",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWm5",
+      "name": "Assembled Stair:Stair:210809 Stringer 7",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWm4",
+      "name": "Assembled Stair:Stair:210809 Stringer 8",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWpz",
+      "name": "Assembled Stair:Stair:210809 Stringer 9",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWpy",
+      "name": "Assembled Stair:Stair:210809 Stringer 10",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWpC",
+      "name": "Assembled Stair:Stair:210809 Stringer 11",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWpJ",
+      "name": "Assembled Stair:Stair:210809 Stringer 12",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWpI",
+      "name": "Assembled Stair:Stair:210809 Stringer 13",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWpH",
+      "name": "Assembled Stair:Stair:210809 Stringer 14",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWpG",
+      "name": "Assembled Stair:Stair:210809 Stringer 15",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWpO",
+      "name": "Assembled Stair:Stair:210809 Stringer 16",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWpV",
+      "name": "Assembled Stair:Stair:210809 Stringer 17",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWpU",
+      "name": "Assembled Stair:Stair:210809 Stringer 18",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWpT",
+      "name": "Assembled Stair:Stair:210809 Stringer 19",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWoa",
+      "name": "Assembled Stair:Stair:210809 Stringer 20",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWoh",
+      "name": "Assembled Stair:Stair:210809 Stringer 21",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWox",
+      "name": "Assembled Stair:Stair:210809 Stringer 22",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWow",
+      "name": "Assembled Stair:Stair:210809 Stringer 23",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWov",
+      "name": "Assembled Stair:Stair:210809 Stringer 24",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWou",
+      "name": "Assembled Stair:Stair:210809 Stringer 25",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWo$",
+      "name": "Assembled Stair:Stair:210809 Stringer 26",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWo7",
+      "name": "Assembled Stair:Stair:210809 Stringer 27",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWo6",
+      "name": "Assembled Stair:Stair:210809 Stringer 28",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWo5",
+      "name": "Assembled Stair:Stair:210809 Stringer 29",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWo4",
+      "name": "Assembled Stair:Stair:210809 Stringer 30",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWoJ",
+      "name": "Assembled Stair:Stair:210809 Stringer 31",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWoI",
+      "name": "Assembled Stair:Stair:210809 Stringer 32",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWrY",
+      "name": "Assembled Stair:Stair:210809 Stringer 33",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWrX",
+      "name": "Assembled Stair:Stair:210809 Stringer 34",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWrW",
+      "name": "Assembled Stair:Stair:210809 Stringer 35",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWrd",
+      "name": "Assembled Stair:Stair:210809 Stringer 36",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWrc",
+      "name": "Assembled Stair:Stair:210809 Stringer 37",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWrk",
+      "name": "Assembled Stair:Stair:210809 Stringer 38",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWrj",
+      "name": "Assembled Stair:Stair:210809 Stringer 39",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWri",
+      "name": "Assembled Stair:Stair:210809 Stringer 40",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWrp",
+      "name": "Assembled Stair:Stair:210809 Stringer 41",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWr_",
+      "name": "Railing:900mm Pipe:211229",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWr2",
+      "name": "Railing:900mm Pipe:211233",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWr6",
+      "name": "Railing:900mm Pipe:211237",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWrA",
+      "name": "Railing:900mm Pipe:211241",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWrE",
+      "name": "Railing:900mm Pipe:211245",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIWCQ"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWjy",
+      "name": "Compound Ceiling:600 x 1200mm grid:212767",
+      "type": "IfcCovering",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWjG",
+      "name": "Compound Ceiling:600 x 1200mm grid:212787",
+      "type": "IfcCovering",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "1g9VQ3c65F6A9PHjqnFt6w",
+      "name": "Window-Casement-Triple-Middle-Transom:eye:234791",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSdVi",
+      "name": "M_Parking Space:4800 x 2400mm - 90 deg:237226",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSdRR",
+      "name": "M_Parking Space:4800 x 2400mm - 90 deg:237469",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSdQe",
+      "name": "M_Parking Space:4800 x 2400mm - 90 deg:237550",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSacB",
+      "name": "M_Parking Space:4800 x 2400mm - 90 deg:237773",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqyyC",
+      "name": "RPC Beetle:RPC Beetle:250187",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqy$F",
+      "name": "RPC Beetle:RPC Beetle:250248",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqy_2",
+      "name": "RPC Beetle:RPC Beetle:250309",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqynV",
+      "name": "RPC Beetle:RPC Beetle:250392",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqygo",
+      "name": "M_Parking Space:4800 x 2400mm - 90 deg:251125",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqyln",
+      "name": "RPC Beetle:RPC Beetle:251318",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqyae",
+      "name": "RPC Male:Dwayne:251759",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqycG",
+      "name": "RPC Male:Dwayne:251863",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqyPj",
+      "name": "RPC Male:Dwayne:251946",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqyOQ",
+      "name": "RPC Male:Dwayne:251997",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUJgR"
+    },
+    {
+      "id": "0yvlhC9wn8DA2WGizjUYTS",
+      "name": "first floor",
+      "type": "IfcBuildingStorey",
+      "parent": "0yvlhC9wn8DA2WGi_IXlj3"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWnfr",
+      "name": "Basic Wall:Generic - 200mm:205047",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWnkh",
+      "name": "Basic Wall:Generic - 200mm:205097",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWnie",
+      "name": "Basic Wall:Generic - 200mm:205226",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWnjW",
+      "name": "Basic Wall:Generic - 200mm:205282",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWnYY",
+      "name": "Basic Wall:Generic - 200mm:205344",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWnZ_",
+      "name": "Basic Wall:Generic - 200mm:205436",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWnX3",
+      "name": "Basic Wall:Generic - 200mm:205505",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWnE0",
+      "name": "Basic Wall:Generic - 90mm Brick:207106",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWnEh",
+      "name": "Basic Wall:Generic - 90mm Brick:207145",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWnDH",
+      "name": "Basic Wall:Generic - 200mm:207315",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWnDg",
+      "name": "Basic Wall:Generic - 200mm:207336",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWn07",
+      "name": "Basic Wall:Generic - 200mm:207493",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWn6n",
+      "name": "Basic Wall:Generic - 90mm Brick:207667",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWnRX",
+      "name": "Basic Wall:Generic - 200mm:207971",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWnUO",
+      "name": "Basic Wall:Generic - 200mm:208154",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWnS1",
+      "name": "Basic Wall:Generic - 90mm Brick:208259",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3TCN_CxHL0Ng4l1imzWnTv",
+      "name": "Basic Wall:Generic - 90mm Brick:208379",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWuU",
+      "name": "Assembled Stair:Stair:211581",
+      "type": "IfcStair",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWuT",
+      "name": "Assembled Stair:Stair:211581 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxX",
+      "name": "Assembled Stair:Stair:211581 Run 2",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxl",
+      "name": "Assembled Stair:Stair:211581 Run 3",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxE",
+      "name": "Assembled Stair:Stair:211581 Run 4",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwj",
+      "name": "Assembled Stair:Stair:211581 Run 5",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxd",
+      "name": "Assembled Stair:Stair:211581 Landing 1",
+      "type": "IfcSlab",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxj",
+      "name": "Assembled Stair:Stair:211581 Landing 2",
+      "type": "IfcSlab",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxC",
+      "name": "Assembled Stair:Stair:211581 Landing 3",
+      "type": "IfcSlab",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwp",
+      "name": "Assembled Stair:Stair:211581 Landing 4",
+      "type": "IfcSlab",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxZ",
+      "name": "Assembled Stair:Stair:211581 Stringer 1",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxY",
+      "name": "Assembled Stair:Stair:211581 Stringer 2",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxb",
+      "name": "Assembled Stair:Stair:211581 Stringer 3",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxa",
+      "name": "Assembled Stair:Stair:211581 Stringer 4",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxh",
+      "name": "Assembled Stair:Stair:211581 Stringer 5",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxg",
+      "name": "Assembled Stair:Stair:211581 Stringer 6",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxf",
+      "name": "Assembled Stair:Stair:211581 Stringer 7",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxe",
+      "name": "Assembled Stair:Stair:211581 Stringer 8",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxp",
+      "name": "Assembled Stair:Stair:211581 Stringer 9",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxo",
+      "name": "Assembled Stair:Stair:211581 Stringer 10",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWx_",
+      "name": "Assembled Stair:Stair:211581 Stringer 11",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxz",
+      "name": "Assembled Stair:Stair:211581 Stringer 12",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxy",
+      "name": "Assembled Stair:Stair:211581 Stringer 13",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWx3",
+      "name": "Assembled Stair:Stair:211581 Stringer 14",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWx2",
+      "name": "Assembled Stair:Stair:211581 Stringer 15",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxA",
+      "name": "Assembled Stair:Stair:211581 Stringer 16",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWx9",
+      "name": "Assembled Stair:Stair:211581 Stringer 17",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWx8",
+      "name": "Assembled Stair:Stair:211581 Stringer 18",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxF",
+      "name": "Assembled Stair:Stair:211581 Stringer 19",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxI",
+      "name": "Assembled Stair:Stair:211581 Stringer 20",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxH",
+      "name": "Assembled Stair:Stair:211581 Stringer 21",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxT",
+      "name": "Assembled Stair:Stair:211581 Stringer 22",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWxS",
+      "name": "Assembled Stair:Stair:211581 Stringer 23",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwZ",
+      "name": "Assembled Stair:Stair:211581 Stringer 24",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwY",
+      "name": "Assembled Stair:Stair:211581 Stringer 25",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwX",
+      "name": "Assembled Stair:Stair:211581 Stringer 26",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwf",
+      "name": "Assembled Stair:Stair:211581 Stringer 27",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwe",
+      "name": "Assembled Stair:Stair:211581 Stringer 28",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwl",
+      "name": "Assembled Stair:Stair:211581 Stringer 29",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwk",
+      "name": "Assembled Stair:Stair:211581 Stringer 30",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwn",
+      "name": "Assembled Stair:Stair:211581 Stringer 31",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwm",
+      "name": "Assembled Stair:Stair:211581 Stringer 32",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwy",
+      "name": "Assembled Stair:Stair:211581 Stringer 33",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWw3",
+      "name": "Assembled Stair:Stair:211581 Stringer 34",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWw2",
+      "name": "Assembled Stair:Stair:211581 Stringer 35",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWw1",
+      "name": "Assembled Stair:Stair:211581 Stringer 36",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWw0",
+      "name": "Assembled Stair:Stair:211581 Stringer 37",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWw8",
+      "name": "Assembled Stair:Stair:211581 Stringer 38",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwF",
+      "name": "Assembled Stair:Stair:211581 Stringer 39",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwE",
+      "name": "Assembled Stair:Stair:211581 Stringer 40",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwD",
+      "name": "Assembled Stair:Stair:211581 Stringer 41",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwC",
+      "name": "Railing:900mm Pipe:211695",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwG",
+      "name": "Railing:900mm Pipe:211699",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwK",
+      "name": "Railing:900mm Pipe:211703",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwO",
+      "name": "Railing:900mm Pipe:211707",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWwS",
+      "name": "Railing:900mm Pipe:211711",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIWuU"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIdHA",
+      "name": "Floor:Generic Floor - 400mm:213033",
+      "type": "IfcSlab",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "1mBlidH$XE0PH0ji_VNV5c",
+      "name": "Window-Awning-Variable:ryy:229374",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "1mBlidH$XE0PH0ji_VNGsj",
+      "name": "Window-Awning-Variable:ryy:230197",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "1g9VQ3c65F6A9PHjqnFs6z",
+      "name": "Window-Awning-Variable:ryy:230688",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "1g9VQ3c65F6A9PHjqnFs4Q",
+      "name": "Window-Awning-Variable:ryy:230791",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "1g9VQ3c65F6A9PHjqnFs5V",
+      "name": "Window-Awning-Variable:ryy:230850",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSdS8",
+      "name": "Window-Awning-Variable:ryy:237134",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSb_x",
+      "name": "Window-Fixed:36\" x 41\":243453",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSbv6",
+      "name": "Trim-Window-Exterior-Flat:with Sill:243456",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSbv7",
+      "name": "Trim-Window-Interior-Flat:Picture Frame:243457",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSbvW",
+      "name": "Window-Fixed:36\" x 41\":243494",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSbvl",
+      "name": "Trim-Window-Exterior-Flat:with Sill:243497",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSbvi",
+      "name": "Trim-Window-Interior-Flat:Picture Frame:243498",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSbvm",
+      "name": "Window-Fixed:36\" x 41\":243510",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSbv$",
+      "name": "Trim-Window-Exterior-Flat:with Sill:243513",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSbvy",
+      "name": "Trim-Window-Interior-Flat:Picture Frame:243514",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSbu9",
+      "name": "Window-Fixed:36\" x 41\":243535",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSbuK",
+      "name": "Trim-Window-Exterior-Flat:with Sill:243538",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSbuL",
+      "name": "Trim-Window-Interior-Flat:Picture Frame:243539",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSbuy",
+      "name": "Window-Fixed:gsdg:243578",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSbux",
+      "name": "Trim-Window-Exterior-Flat:with Sill:243581",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSbuu",
+      "name": "Trim-Window-Interior-Flat:Picture Frame:243582",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSbx_",
+      "name": "Window-Fixed:gsdg:243640",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSbxz",
+      "name": "Trim-Window-Exterior-Flat:with Sill:243643",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSbxw",
+      "name": "Trim-Window-Interior-Flat:Picture Frame:243644",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSb6H",
+      "name": "Window-Casement-Triple-Middle-Transom:85\" x 60\":243927",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqyGA",
+      "name": "RPC Female:Cynthia:252493",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqyGm",
+      "name": "RPC Female:Cynthia:252535",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqy9d",
+      "name": "RPC Male:LaRon:252960",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqyA4",
+      "name": "RPC Male:LaRon:253123",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUYTS"
+    },
+    {
+      "id": "0yvlhC9wn8DA2WGizjUY0l",
+      "name": "sec floor",
+      "type": "IfcBuildingStorey",
+      "parent": "0yvlhC9wn8DA2WGi_IXlj3"
+    },
+    {
+      "id": "3h9uaXimz9WhAm1gJgxQya",
+      "name": "Basic Wall:Generic - 90mm Brick:208476",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUY0l"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIW_T",
+      "name": "Assembled Stair:Stair:211966",
+      "type": "IfcStair",
+      "parent": "0yvlhC9wn8DA2WGizjUY0l"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIW_S",
+      "name": "Assembled Stair:Stair:211966 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXW",
+      "name": "Assembled Stair:Stair:211966 Run 2",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXk",
+      "name": "Assembled Stair:Stair:211966 Run 3",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXD",
+      "name": "Assembled Stair:Stair:211966 Run 4",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWi",
+      "name": "Assembled Stair:Stair:211966 Run 5",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXc",
+      "name": "Assembled Stair:Stair:211966 Landing 1",
+      "type": "IfcSlab",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXi",
+      "name": "Assembled Stair:Stair:211966 Landing 2",
+      "type": "IfcSlab",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXJ",
+      "name": "Assembled Stair:Stair:211966 Landing 3",
+      "type": "IfcSlab",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWo",
+      "name": "Assembled Stair:Stair:211966 Landing 4",
+      "type": "IfcSlab",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXY",
+      "name": "Assembled Stair:Stair:211966 Stringer 1",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXX",
+      "name": "Assembled Stair:Stair:211966 Stringer 2",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXa",
+      "name": "Assembled Stair:Stair:211966 Stringer 3",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXh",
+      "name": "Assembled Stair:Stair:211966 Stringer 4",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXg",
+      "name": "Assembled Stair:Stair:211966 Stringer 5",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXf",
+      "name": "Assembled Stair:Stair:211966 Stringer 6",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXe",
+      "name": "Assembled Stair:Stair:211966 Stringer 7",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXl",
+      "name": "Assembled Stair:Stair:211966 Stringer 8",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXo",
+      "name": "Assembled Stair:Stair:211966 Stringer 9",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXn",
+      "name": "Assembled Stair:Stair:211966 Stringer 10",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXz",
+      "name": "Assembled Stair:Stair:211966 Stringer 11",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXy",
+      "name": "Assembled Stair:Stair:211966 Stringer 12",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWX3",
+      "name": "Assembled Stair:Stair:211966 Stringer 13",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWX2",
+      "name": "Assembled Stair:Stair:211966 Stringer 14",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWX1",
+      "name": "Assembled Stair:Stair:211966 Stringer 15",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWX9",
+      "name": "Assembled Stair:Stair:211966 Stringer 16",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWX8",
+      "name": "Assembled Stair:Stair:211966 Stringer 17",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXF",
+      "name": "Assembled Stair:Stair:211966 Stringer 18",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXE",
+      "name": "Assembled Stair:Stair:211966 Stringer 19",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXH",
+      "name": "Assembled Stair:Stair:211966 Stringer 20",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXG",
+      "name": "Assembled Stair:Stair:211966 Stringer 21",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWXS",
+      "name": "Assembled Stair:Stair:211966 Stringer 22",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWZ",
+      "name": "Assembled Stair:Stair:211966 Stringer 23",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWY",
+      "name": "Assembled Stair:Stair:211966 Stringer 24",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWX",
+      "name": "Assembled Stair:Stair:211966 Stringer 25",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWW",
+      "name": "Assembled Stair:Stair:211966 Stringer 26",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWe",
+      "name": "Assembled Stair:Stair:211966 Stringer 27",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWl",
+      "name": "Assembled Stair:Stair:211966 Stringer 28",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWk",
+      "name": "Assembled Stair:Stair:211966 Stringer 29",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWj",
+      "name": "Assembled Stair:Stair:211966 Stringer 30",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWm",
+      "name": "Assembled Stair:Stair:211966 Stringer 31",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWt",
+      "name": "Assembled Stair:Stair:211966 Stringer 32",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWW3",
+      "name": "Assembled Stair:Stair:211966 Stringer 33",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWW2",
+      "name": "Assembled Stair:Stair:211966 Stringer 34",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWW1",
+      "name": "Assembled Stair:Stair:211966 Stringer 35",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWW0",
+      "name": "Assembled Stair:Stair:211966 Stringer 36",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWW7",
+      "name": "Assembled Stair:Stair:211966 Stringer 37",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWF",
+      "name": "Assembled Stair:Stair:211966 Stringer 38",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWE",
+      "name": "Assembled Stair:Stair:211966 Stringer 39",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWD",
+      "name": "Assembled Stair:Stair:211966 Stringer 40",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWC",
+      "name": "Assembled Stair:Stair:211966 Stringer 41",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWJ",
+      "name": "Railing:900mm Pipe:212080",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWN",
+      "name": "Railing:900mm Pipe:212084",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWR",
+      "name": "Railing:900mm Pipe:212088",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWWV",
+      "name": "Railing:900mm Pipe:212092",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWZZ",
+      "name": "Railing:900mm Pipe:212096",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIW_T"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIdKc",
+      "name": "Floor:Generic Floor - 400mm:213317",
+      "type": "IfcSlab",
+      "parent": "0yvlhC9wn8DA2WGizjUY0l"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoId5o",
+      "name": "Compound Ceiling:600 x 1200mm grid:214289",
+      "type": "IfcCovering",
+      "parent": "0yvlhC9wn8DA2WGizjUY0l"
+    },
+    {
+      "id": "1g9VQ3c65F6A9PHjqnFtzY",
+      "name": "Window-Awning-Variable:ryy:236543",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUY0l"
+    },
+    {
+      "id": "1g9VQ3c65F6A9PHjqnFtY3",
+      "name": "Window-Awning-Variable:ryy:236574",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUY0l"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSb78",
+      "name": "Window-Casement-Triple-Middle-Transom:85\" x 60\":243854",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUY0l"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqyLI",
+      "name": "RPC Female:Cynthia:252693",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUY0l"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqyKr",
+      "name": "RPC Female:Cynthia:252786",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUY0l"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqyNg",
+      "name": "RPC Female:Cynthia:252845",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUY0l"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqyB0",
+      "name": "RPC Male:LaRon:253063",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUY0l"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqyDh",
+      "name": "RPC Female:YinYin:253228",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUY0l"
+    },
+    {
+      "id": "0yvlhC9wn8DA2WGizjUY7v",
+      "name": "terrace",
+      "type": "IfcBuildingStorey",
+      "parent": "0yvlhC9wn8DA2WGi_IXlj3"
+    },
+    {
+      "id": "3h9uaXimz9WhAm1gJgxQwD",
+      "name": "Basic Wall:Generic - 200mm:208885",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "3h9uaXimz9WhAm1gJgxR5W",
+      "name": "Basic Wall:Generic - 200mm:208920",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "3h9uaXimz9WhAm1gJgxR4e",
+      "name": "Basic Wall:Generic - 200mm:208976",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "3h9uaXimz9WhAm1gJgxRFO",
+      "name": "Basic Wall:Generic - 200mm:209568",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "3h9uaXimz9WhAm1gJgxR8e",
+      "name": "Basic Wall:Generic - 200mm:209744",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "3h9uaXimz9WhAm1gJgxRBe",
+      "name": "Basic Wall:Generic - 200mm:209808",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "3h9uaXimz9WhAm1gJgxRAz",
+      "name": "Basic Wall:Generic - 200mm:209861",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "3h9uaXimz9WhAm1gJgxRA3",
+      "name": "Basic Wall:Generic - 200mm:209915",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWaN",
+      "name": "Assembled Stair:Stair:212340",
+      "type": "IfcStair",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWaM",
+      "name": "Assembled Stair:Stair:212340 Run 1",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWaQ",
+      "name": "Assembled Stair:Stair:212340 Run 2",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWdW",
+      "name": "Assembled Stair:Stair:212340 Run 3",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWd7",
+      "name": "Assembled Stair:Stair:212340 Run 4",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWcc",
+      "name": "Assembled Stair:Stair:212340 Run 5",
+      "type": "IfcStairFlight",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWaO",
+      "name": "Assembled Stair:Stair:212340 Landing 1",
+      "type": "IfcSlab",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWdc",
+      "name": "Assembled Stair:Stair:212340 Landing 2",
+      "type": "IfcSlab",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWd5",
+      "name": "Assembled Stair:Stair:212340 Landing 3",
+      "type": "IfcSlab",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWca",
+      "name": "Assembled Stair:Stair:212340 Landing 4",
+      "type": "IfcSlab",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWaK",
+      "name": "Assembled Stair:Stair:212340 Stringer 1",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWaR",
+      "name": "Assembled Stair:Stair:212340 Stringer 2",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWaU",
+      "name": "Assembled Stair:Stair:212340 Stringer 3",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWaT",
+      "name": "Assembled Stair:Stair:212340 Stringer 4",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWaS",
+      "name": "Assembled Stair:Stair:212340 Stringer 5",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWdZ",
+      "name": "Assembled Stair:Stair:212340 Stringer 6",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWdY",
+      "name": "Assembled Stair:Stair:212340 Stringer 7",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWdX",
+      "name": "Assembled Stair:Stair:212340 Stringer 8",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWda",
+      "name": "Assembled Stair:Stair:212340 Stringer 9",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWdh",
+      "name": "Assembled Stair:Stair:212340 Stringer 10",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWdt",
+      "name": "Assembled Stair:Stair:212340 Stringer 11",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWds",
+      "name": "Assembled Stair:Stair:212340 Stringer 12",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWdr",
+      "name": "Assembled Stair:Stair:212340 Stringer 13",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWdq",
+      "name": "Assembled Stair:Stair:212340 Stringer 14",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWdx",
+      "name": "Assembled Stair:Stair:212340 Stringer 15",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWd3",
+      "name": "Assembled Stair:Stair:212340 Stringer 16",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWd2",
+      "name": "Assembled Stair:Stair:212340 Stringer 17",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWd1",
+      "name": "Assembled Stair:Stair:212340 Stringer 18",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWd0",
+      "name": "Assembled Stair:Stair:212340 Stringer 19",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWdB",
+      "name": "Assembled Stair:Stair:212340 Stringer 20",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWdA",
+      "name": "Assembled Stair:Stair:212340 Stringer 21",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWdM",
+      "name": "Assembled Stair:Stair:212340 Stringer 22",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWdL",
+      "name": "Assembled Stair:Stair:212340 Stringer 23",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWdK",
+      "name": "Assembled Stair:Stair:212340 Stringer 24",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWdR",
+      "name": "Assembled Stair:Stair:212340 Stringer 25",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWdQ",
+      "name": "Assembled Stair:Stair:212340 Stringer 26",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWcY",
+      "name": "Assembled Stair:Stair:212340 Stringer 27",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWcX",
+      "name": "Assembled Stair:Stair:212340 Stringer 28",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWcW",
+      "name": "Assembled Stair:Stair:212340 Stringer 29",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWcd",
+      "name": "Assembled Stair:Stair:212340 Stringer 30",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWcg",
+      "name": "Assembled Stair:Stair:212340 Stringer 31",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWcf",
+      "name": "Assembled Stair:Stair:212340 Stringer 32",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWcr",
+      "name": "Assembled Stair:Stair:212340 Stringer 33",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWcq",
+      "name": "Assembled Stair:Stair:212340 Stringer 34",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWcx",
+      "name": "Assembled Stair:Stair:212340 Stringer 35",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWcw",
+      "name": "Assembled Stair:Stair:212340 Stringer 36",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWcv",
+      "name": "Assembled Stair:Stair:212340 Stringer 37",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWc1",
+      "name": "Assembled Stair:Stair:212340 Stringer 38",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWc0",
+      "name": "Assembled Stair:Stair:212340 Stringer 39",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWc7",
+      "name": "Assembled Stair:Stair:212340 Stringer 40",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWc6",
+      "name": "Assembled Stair:Stair:212340 Stringer 41",
+      "type": "IfcMember",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWc5",
+      "name": "Railing:900mm Pipe:212454",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWc9",
+      "name": "Railing:900mm Pipe:212458",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWcD",
+      "name": "Railing:900mm Pipe:212462",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWcH",
+      "name": "Railing:900mm Pipe:212466",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIWcL",
+      "name": "Railing:900mm Pipe:212470",
+      "type": "IfcRailing",
+      "parent": "2VuCvJ9vjDbxJG9upoIWaN"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIdBG",
+      "name": "Floor:Generic Floor - 400mm:214707",
+      "type": "IfcSlab",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIdtQ",
+      "name": "Basic Wall:Generic - 200mm:215481",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIds8",
+      "name": "Basic Wall:Generic - 200mm:215531",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIdxq",
+      "name": "Basic Wall:Generic - 200mm:215703",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "2VuCvJ9vjDbxJG9upoIdwV",
+      "name": "Compound Ceiling:600 x 1200mm grid:215804",
+      "type": "IfcCovering",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "2LJPlYNk5CtAKZOceIzgl8",
+      "name": "Compound Ceiling:600 x 1200mm grid:216039",
+      "type": "IfcCovering",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "1mBlidH$XE0PH0ji_VNTHI",
+      "name": "M_Rectangular Column:475 x 610mm:219850",
+      "type": "IfcColumn",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "1mBlidH$XE0PH0ji_VNTA5",
+      "name": "M_Rectangular Column:475 x 610mm:220189",
+      "type": "IfcColumn",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "1mBlidH$XE0PH0ji_VNUZ1",
+      "name": "M_Rectangular Column:30 45:222809",
+      "type": "IfcColumn",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "1g9VQ3c65F6A9PHjqnFt_$",
+      "name": "Window-Casement-Triple-Middle-Transom:eye:236322",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "2n5Tr9IWX9b9GzgQ2iSb7z",
+      "name": "Window-Casement-Triple-Middle-Transom:85\" x 60\":243899",
+      "type": "IfcWindow",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqwGX",
+      "name": "M_RPC Tree - Deciduous:Gray Birch - 3.1 Meters:244326",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqwJG",
+      "name": "M_RPC Tree - Deciduous:Gray Birch - 3.1 Meters:244375",
+      "type": "IfcBuildingElementProxy",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqyEo",
+      "name": "M_Single-Flush:0915 x 2134mm:253429",
+      "type": "IfcDoor",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqy1t",
+      "name": "M_Single-Flush:0915 x 2134mm:253488",
+      "type": "IfcDoor",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "3Kf9$T7RrByvfO04SNqy21",
+      "name": "M_Single-Flush:0915 x 2134mm:253638",
+      "type": "IfcDoor",
+      "parent": "0yvlhC9wn8DA2WGizjUY7v"
+    },
+    {
+      "id": "0yvlhC9wn8DA2WGizjUYAp",
+      "name": "head room",
+      "type": "IfcBuildingStorey",
+      "parent": "0yvlhC9wn8DA2WGi_IXlj3"
+    },
+    {
+      "id": "3h9uaXimz9WhAm1gJgxRSR",
+      "name": "Basic Wall:Generic - 200mm:210531",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYAp"
+    },
+    {
+      "id": "3h9uaXimz9WhAm1gJgxRPl",
+      "name": "Basic Wall:Generic - 200mm:210711",
+      "type": "IfcWallStandardCase",
+      "parent": "0yvlhC9wn8DA2WGizjUYAp"
+    },
+    {
+      "id": "2LJPlYNk5CtAKZOceIzgy9",
+      "name": "Compound Ceiling:600 x 1200mm grid:216870",
+      "type": "IfcCovering",
+      "parent": "0yvlhC9wn8DA2WGizjUYAp"
+    }
+  ]
+}
